@@ -1,0 +1,25 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "userName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "userEmailId",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "userMobileNo",
+            "fieldType": "Long"
+        }
+    ],
+    "changelogDate": "20180306084557",
+    "entityTableName": "user_profile",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "microserviceName": "microservices"
+}
